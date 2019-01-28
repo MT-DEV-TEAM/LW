@@ -49,11 +49,12 @@
 			{"name":"w48", "author": "", "thumbUrl":"acdkT5v", "url":"acdkT5v", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w49", "author": "", "thumbUrl":"Jma5Dwm", "url":"Jma5Dwm", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w50", "author": "", "thumbUrl":"rOD6UFi", "url":"rOD6UFi", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
+			{"name":"w51", "author": "", "thumbUrl":"SdXm7L9", "url":"SdXm7L9", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
+			{"name":"w52", "author": "", "thumbUrl":"M9E0k2u", "url":"M9E0k2u", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w45", "author": "", "thumbUrl":"PS6ecYq", "url":"PS6ecYq", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w46", "author": "", "thumbUrl":"63Gn3Y6", "url":"63Gn3Y6", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w42", "author": "", "thumbUrl":"lsVeKMx", "url":"lsVeKMx", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w40", "author": "", "thumbUrl":"kqczO9K", "url":"kqczO9K", "category":"parallax", "parallax":"true","premium":"true", "sku": ""}
 		]
-
 
 }
