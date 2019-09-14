@@ -4,7 +4,6 @@
 	"Wallpapers":
         [
 			{"name":"w1", "author": "", "thumbUrl":"Bf0iYSU", "url":"Bf0iYSU", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
-			{"name":"w2", "author": "", "thumbUrl":"Eu8yt6L", "url":"Eu8yt6L", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w3", "author": "", "thumbUrl":"MANpAJ1", "url":"MANpAJ1", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w4", "author": "", "thumbUrl":"RcyexrJ", "url":"RcyexrJ", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w5", "author": "", "thumbUrl":"KMexBXt", "url":"KMexBXt", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
@@ -87,6 +86,8 @@
             {"name":"w88", "author": "", "thumbUrl":"F4fU0gI", "url":"F4fU0gI", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
             {"name":"w89", "author": "", "thumbUrl":"TB49Swx", "url":"TB49Swx", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
             {"name":"w90", "author": "", "thumbUrl":"FWzqDUT", "url":"FWzqDUT", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
+            {"name":"w93", "author": "", "thumbUrl":"TIhn4CJ", "url":"TIhn4CJ", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
+            {"name":"w94", "author": "", "thumbUrl":"rGeRZsi", "url":"rGeRZsi", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 
             {"name":"w69", "author": "", "thumbUrl":"76hZONV", "url":"76hZONV", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
             {"name":"w70", "author": "", "thumbUrl":"KzsXNL9", "url":"KzsXNL9", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
@@ -97,5 +98,6 @@
 			{"name":"w46", "author": "", "thumbUrl":"63Gn3Y6", "url":"63Gn3Y6", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w42", "author": "", "thumbUrl":"lsVeKMx", "url":"lsVeKMx", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 			{"name":"w40", "author": "", "thumbUrl":"kqczO9K", "url":"kqczO9K", "category":"parallax", "parallax":"true","premium":"true", "sku": ""}
+			{"name":"w2", "author": "", "thumbUrl":"Eu8yt6L", "url":"Eu8yt6L", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 		]
 }
