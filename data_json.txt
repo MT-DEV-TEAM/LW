@@ -133,6 +133,8 @@
             {"name":"w138", "author": "", "thumbUrl":"IZjCwtE", "url":"IZjCwtE", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
             {"name":"w139", "author": "", "thumbUrl":"3uDvi9E", "url":"3uDvi9E", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
             {"name":"w140", "author": "", "thumbUrl":"oz382nu", "url":"oz382nu", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
+            {"name":"w141", "author": "", "thumbUrl":"7YUz3Vo", "url":"7YUz3Vo", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
+            {"name":"w142", "author": "", "thumbUrl":"6YySd1Q", "url":"6YySd1Q", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
 
 
             {"name":"w69", "author": "", "thumbUrl":"76hZONV", "url":"76hZONV", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
